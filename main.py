@@ -8,4 +8,4 @@ def start(message):
 
 
 
-bot.polling(non_stop=True)
+bot.polling(non_stop=True) /
